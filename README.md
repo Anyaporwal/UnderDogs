@@ -16,7 +16,7 @@ UnderDogs is designed to provide users with a seamless experience in interacting
 ## 📁 Project Structure
 
 ```
-UnderDogs_Hacksphere2/
+UnderDogs
 ├── backend/               # Python backend services
 ├── frontend/              # React.js frontend application
 ├── Icons.tsx              # Custom icons component
