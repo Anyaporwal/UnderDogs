@@ -21,7 +21,6 @@ UnderDogs
 ├── frontend/              # React.js frontend application
 ├── Icons.tsx              # Custom icons component
 ├── MetaMaskConnect.tsx    # MetaMask integration component
-├── LICENSE                # MIT License
 └── README.md              # Project documentation
 ```
 
